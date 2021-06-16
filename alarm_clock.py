@@ -16,6 +16,7 @@ while(True):
 		alarmMinute == datetime.datetime.now().minute):
 		print("Wake up !!!")
 		playsound("Ringtone.mp3")
+		#good bro
 		break
 
 print("exited")
