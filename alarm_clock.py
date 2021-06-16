@@ -17,6 +17,7 @@ while(True):
 		print("Wake up !!!")
 		playsound("Ringtone.mp3")
 		# nice bro
+		#good bro
 		break
 
 print("exited")
